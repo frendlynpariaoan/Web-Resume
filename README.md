@@ -1,2 +1,0 @@
-# Web-Resume
-Web Resume
